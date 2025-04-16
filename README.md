@@ -71,3 +71,30 @@
 
 ---
 
+
+### 🧠 Explicação das libs:
+
+| Biblioteca          | Usada para...                                       |
+|---------------------|-----------------------------------------------------|
+| `pymysql`           | Conexão com banco de dados MySQL                    |
+| `pandas`            | Manipulação de dados e tabelas                      |
+| `numpy`             | Cálculos numéricos                                  |
+| `scikit-learn`      | Regressão linear e validação de modelo              |
+| `matplotlib`        | Gráficos                                            |
+| `pyqt5`             | Interface gráfica com Qt                            |
+| `selenium`          | Web scraping e automação de navegador               |
+| `webdriver-manager` | Instalação automática do ChromeDriver               |
+| `pdfplumber`        | Leitura e extração de texto de arquivos PDF         |
+
+---
+
+
+
+2. **Instale tudo com o comando:**
+   ```bash
+   pip install pymysql pandas numpy scikit-learn matplotlib pyqt5 selenium webdriver-manager pdfplumber
+   ```
+
+---
+
+
