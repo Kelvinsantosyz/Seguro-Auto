@@ -96,7 +96,7 @@ Para colocar o **Analitica Seguro Auto** para rodar em sua máquina, siga estes 
 1.  **Pré-requisitos:** Certifique-se de ter o **Python 3.x** instalado.
 2.  **Instale todas as bibliotecas necessárias** utilizando o comando abaixo no seu terminal:
     ```bash
-    pip install pymysql pandas numpy scikit-learn matplotlib pyqt5 selenium webdriver-manager pdfplumber
+    pip install pymysql pandas scikit-learn numpy matplotlib pyqt5 selenium webdriver-manager
     ```
 3.  **Clone o repositório** (se aplicável, adicione instruções para clonar o repositório do GitHub aqui).
 4.  **Execute o script principal** (adicione aqui o comando para rodar o script, ex: `python main.py`).
