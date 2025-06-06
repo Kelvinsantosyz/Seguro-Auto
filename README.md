@@ -116,6 +116,7 @@ Este projeto foi desenvolvido com dedicação pela seguinte equipe:
   * **Kelvin**: Gerente de Projeto, Engenheiro de Dados e UI/UX Designer
   * **Thiago**: Cientista de Dados
   * **Miguel**: Geração de Documentação
+  * Jhonatan Alves Dos Santos: Finalização
 
 -----
 
