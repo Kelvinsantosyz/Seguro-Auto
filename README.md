@@ -105,9 +105,7 @@ Para colocar o **Analitica Seguro Auto** para rodar em sua máquina, siga estes 
 
 ## 📸 Demonstração do Projeto
 
-Confira algumas capturas de tela da nossa aplicação em funcionamento:
-
-[Download do vídeo de demonstração](https://www.google.com/search?q=./compressed_video_25mb.mp4)
+[Download do vídeo de demonstração](https://drive.google.com/file/d/1QTwhmnzI0lAl0A-cVzHbGcujg4pIV56X/view?usp=sharing)
 
 -----
 
